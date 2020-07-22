@@ -1,6 +1,6 @@
 import { Component } from "React";
 
-class Wow extends Component {
+class Test extends Component {
   render() {
     return (
       <div className="wow">
@@ -9,3 +9,7 @@ class Wow extends Component {
     );
   }
 }
+
+const name = "Eric";
+
+const stringName = `Hello${name}\n`;

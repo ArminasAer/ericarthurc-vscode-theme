@@ -1,0 +1,41 @@
+{
+  "name": "theme-ericarthurc",
+  "version": "0.0.1-alpha.0",
+  "displayName": "",
+  "description": "",
+  "publisher": "ericarthurc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ericarthurc/ericarthurc-vscode-theme"
+  },
+  "galleryBanner": {
+    "color": "#181818",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ericarthurc",
+        "uiTheme": "vs-dark",
+        "path": "./theme/ericarthurc.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "vsce": "^1.77.0"
+  }
+}

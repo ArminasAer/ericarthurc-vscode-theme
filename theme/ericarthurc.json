@@ -261,7 +261,7 @@
     "gitDecoration.modifiedResourceForeground": "#ffc600",
     "gitDecoration.deletedResourceForeground": "#ff628c",
     "gitDecoration.untrackedResourceForeground": "#3ad900",
-    "gitDecoration.ignoredResourceForeground": "#808080",
+    "gitDecoration.ignoredResourceForeground": "#e60000",
     "gitDecoration.conflictingResourceForeground": "#FF7200",
     // textBlockQuote
     "textBlockQuote.background": "#193549",

@@ -1,10 +1,10 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Ericarthurc",
-  "type": "dark",
+  "name": "Ericarthurc-Light",
+  "type": "light",
   "colors": {
     // activityBar
-    "activityBar.background": "#181818",
+    "activityBar.background": "#edf2f7",
     "activityBar.border": "#201f1d",
     "activityBar.foreground": "#0063ff",
     "activityBarBadge.background": "#0063ff",
@@ -272,9 +272,9 @@
     "textPreformat.foreground": "#ffc600",
     "textSeparator.foreground": "#0d3a58",
     "titleBar.activeBackground": "#0063ff",
-    "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveBackground": "#181818",
-    "titleBar.inactiveForeground": "#ffffff33",
+    "titleBar.activeForeground": "#181818",
+    "titleBar.inactiveBackground": "#edf2f7",
+    "titleBar.inactiveForeground": "#181818",
     "walkThrough.embeddedEditorBackground": "#0d3a58",
     "welcomePage.buttonBackground": "#193549",
     "welcomePage.buttonHoverBackground": "#0d3a58",

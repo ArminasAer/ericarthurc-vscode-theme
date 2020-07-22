@@ -28,9 +28,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ericarthurc",
+        "label": "Ericarthurc-Dark",
         "uiTheme": "vs-dark",
-        "path": "./theme/ericarthurc.json"
+        "path": "./theme/ericarthurc-dark.json"
+      },
+      {
+        "label": "Ericarthurc-Light",
+        "uiTheme": "vs",
+        "path": "./theme/ericarthurc-light.json"
       }
     ]
   },

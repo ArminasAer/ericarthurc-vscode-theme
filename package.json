@@ -1,9 +1,9 @@
 {
   "name": "theme-ericarthurc",
   "version": "0.0.1-alpha.0",
-  "displayName": "",
-  "description": "",
-  "publisher": "ericarthurc",
+  "displayName": "EricArthurC Theme Official",
+  "description": "Offical theme by Eric Christensen",
+  "publisher": "EricArthurC",
   "repository": {
     "type": "git",
     "url": "https://github.com/Ericarthurc/ericarthurc-vscode-theme"

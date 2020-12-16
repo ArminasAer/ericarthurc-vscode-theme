@@ -1,6 +1,6 @@
 {
   "name": "theme-ericarthurc",
-  "version": "0.0.1-alpha.4",
+  "version": "0.0.2-beta.1",
   "displayName": "EricArthurC Theme Official",
   "description": "Offical theme by Eric Christensen",
   "publisher": "EricArthurC",
@@ -32,11 +32,6 @@
         "label": "Ericarthurc-Dark",
         "uiTheme": "vs-dark",
         "path": "./theme/ericarthurc-dark.json"
-      },
-      {
-        "label": "Ericarthurc-Light",
-        "uiTheme": "vs",
-        "path": "./theme/ericarthurc-light.json"
       }
     ]
   },
